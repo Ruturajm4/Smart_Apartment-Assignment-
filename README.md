@@ -12,11 +12,15 @@ This data can be visualized using **Grafana**.
 - Configurable with `.env` file
 - Ready for Grafana integration
 
+---
+
 ##⚙️ Tech Stack
 
 Backend: Node.js, Express.js
 Database: PostgreSQL
 ORM: Sequelize
+
+---
 
 ##📡 API Endpoints
 
