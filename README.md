@@ -12,6 +12,24 @@ This data can be visualized using **Grafana**.
 - Configurable with `.env` file
 - Ready for Grafana integration
 
+##⚙️ Tech Stack
+
+Backend: Node.js, Express.js
+Database: PostgreSQL
+ORM: Sequelize
+
+##📡 API Endpoints
+
+Rooms
+
+GET /api/rooms → Fetch all rooms
+POST /api/rooms → Create a new room
+
+Sensors
+
+GET /api/sensors → Fetch all sensors
+POST /api/sensors → Create a new sensor
+
 ---
 
 ##
@@ -40,25 +58,8 @@ cd Smart_Apartment-Assignment-
 # 6. run simulator (in another terminal)
 - npm run simulate
   
-📡 API Endpoints
-Rooms
 
-GET /api/rooms → Fetch all rooms
 
-POST /api/rooms → Create a new room
-
-Sensors
-
-GET /api/sensors → Fetch all sensors
-
-POST /api/sensors → Create a new sensor
-⚙️ Tech Stack
-
-Backend: Node.js, Express.js
-
-Database: PostgreSQL
-
-ORM: Sequelize
 
 
 
