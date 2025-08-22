@@ -28,8 +28,8 @@ cd Smart_Apartment-Assignment-
 
 ## 3. Setup Envionment Variables
 
-- Update .env with your PostgreSQL credentials.
-
+- cp .env.example .env
+  
 # 4. seed master data (Room 1/2 + sensors)
 - npm run seed
 
