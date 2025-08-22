@@ -26,13 +26,13 @@ ORM: Sequelize
 
 Rooms
 
-GET /api/rooms → Fetch all rooms
-POST /api/rooms → Create a new room
+- GET /api/rooms → Fetch all rooms
+- POST /api/rooms → Create a new room
 
 Sensors
 
-GET /api/sensors → Fetch all sensors
-POST /api/sensors → Create a new sensor
+- GET /api/sensors → Fetch all sensors
+- POST /api/sensors → Create a new sensor
 
 ---
 
