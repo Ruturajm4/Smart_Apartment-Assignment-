@@ -14,7 +14,7 @@ This data can be visualized using **Grafana**.
 
 ---
 
-⚙️ Tech Stack
+##⚙️ Tech Stack
 
 Backend: Node.js, Express.js
 Database: PostgreSQL
@@ -22,7 +22,7 @@ ORM: Sequelize
 
 ---
 
-📡 API Endpoints
+##📡 API Endpoints
 
 Rooms
 
@@ -47,26 +47,26 @@ cd Smart_Apartment-Assignment-
 
 ### 2. Install Dependencies
 ```
-- npm install
+npm install
 ```
 
 ### 3. Setup Envionment Variables
 ```
-- cp .env.example .env
+cp .env.example .env
 ```  
 ### 4. Seed master data (Room 1/2 + sensors)
 ```
-- npm run seed
+npm run seed
 ```
 ### 5. Start API (auto-syncs DB)
 ```
-- npm run dev
-- Base URL → http://localhost:4000
+npm run dev
+Base URL → http://localhost:4000
 ```
 
 ### 6. Run simulator (in another terminal)
 ```
-- npm run simulate
+npm run simulate
 ```
 
   
