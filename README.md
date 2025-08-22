@@ -19,7 +19,7 @@ This data can be visualized using **Grafana**.
 ### 1. Clone the Repository
 ```
 git clone https://github.com/Ruturajm4/Smart_Apartment-Assignment-.git
-cd Smart_Apartment-Assignmen
+cd Smart_Apartment-Assignment-
 
 ```
 ## 2. Install Dependencies
