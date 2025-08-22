@@ -14,7 +14,7 @@ This data can be visualized using **Grafana**.
 
 ---
 
-##⚙️ Tech Stack
+⚙️ Tech Stack
 
 Backend: Node.js, Express.js
 Database: PostgreSQL
@@ -22,7 +22,7 @@ ORM: Sequelize
 
 ---
 
-##📡 API Endpoints
+📡 API Endpoints
 
 Rooms
 
