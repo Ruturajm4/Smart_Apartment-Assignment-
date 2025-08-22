@@ -28,11 +28,16 @@ Rooms
 
 - GET /api/rooms → Fetch all rooms
 - POST /api/rooms → Create a new room
+- PUT /api/rooms/:id   → Update a room by ID
+- DELETE /api/rooms/:id   → Delete a room by ID
+- GET /api/rooms/:id/sensors   → Fetch all sensors linked to a specific room
 
 Sensors
 
 - GET /api/sensors → Fetch all sensors
 - POST /api/sensors → Create a new sensor
+- PUT /api/sensors/:id   → Update a sensor by ID
+- DELETE /api/sensors/:id   → Delete a sensor by ID
 
 ---
 
