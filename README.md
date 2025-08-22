@@ -57,7 +57,7 @@ cd Smart_Apartment-Assignment-
 
 # 5. start API (auto-syncs DB)
 - npm run dev
-# Base URL → http://localhost:4000
+- Base URL → http://localhost:4000
 
 # 6. run simulator (in another terminal)
 - npm run simulate
