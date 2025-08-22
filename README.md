@@ -61,8 +61,10 @@ npm run seed
 ### 5. Start API (auto-syncs DB)
 ```
 npm run dev
-Base URL → http://localhost:4000
+
 ```
+Base URL → http://localhost:4000
+
 
 ### 6. Run simulator (in another terminal)
 ```
