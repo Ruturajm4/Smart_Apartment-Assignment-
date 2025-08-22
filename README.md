@@ -35,10 +35,30 @@ cd Smart_Apartment-Assignment-
 
 # 5. start API (auto-syncs DB)
 - npm run dev
-# API: http://localhost:4000
+# Base URL → http://localhost:4000
 
 # 6. run simulator (in another terminal)
 - npm run simulate
+  
+📡 API Endpoints
+Rooms
+
+GET /api/rooms → Fetch all rooms
+
+POST /api/rooms → Create a new room
+
+Sensors
+
+GET /api/sensors → Fetch all sensors
+
+POST /api/sensors → Create a new sensor
+⚙️ Tech Stack
+
+Backend: Node.js, Express.js
+
+Database: PostgreSQL
+
+ORM: Sequelize
 
 
 
