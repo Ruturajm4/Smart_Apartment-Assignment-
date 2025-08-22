@@ -39,7 +39,7 @@ Sensors
 ##
 
 ### 1. Clone the Repository
-```
+
 git clone https://github.com/Ruturajm4/Smart_Apartment-Assignment-.git
 cd Smart_Apartment-Assignment-
 
@@ -59,10 +59,10 @@ cd Smart_Apartment-Assignment-
 - npm run dev
 - Base URL → http://localhost:4000
 
-```
-
 # 6. Run simulator (in another terminal)
 - npm run simulate
+
+```
   
 
 
