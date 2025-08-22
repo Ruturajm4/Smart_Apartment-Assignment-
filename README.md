@@ -45,26 +45,26 @@ git clone https://github.com/Ruturajm4/Smart_Apartment-Assignment-.git
 cd Smart_Apartment-Assignment-
 ```
 
-## 2. Install Dependencies
+### 2. Install Dependencies
 ```
 - npm install
 ```
 
-## 3. Setup Envionment Variables
+### 3. Setup Envionment Variables
 ```
 - cp .env.example .env
 ```  
-# 4. Seed master data (Room 1/2 + sensors)
+### 4. Seed master data (Room 1/2 + sensors)
 ```
 - npm run seed
 ```
-# 5. Start API (auto-syncs DB)
+### 5. Start API (auto-syncs DB)
 ```
 - npm run dev
 - Base URL → http://localhost:4000
 ```
 
-# 6. Run simulator (in another terminal)
+### 6. Run simulator (in another terminal)
 ```
 - npm run simulate
 ```
