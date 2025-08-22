@@ -43,7 +43,7 @@ Sensors
 git clone https://github.com/Ruturajm4/Smart_Apartment-Assignment-.git
 cd Smart_Apartment-Assignment-
 
-```
+
 ## 2. Install Dependencies
 
 - npm install
@@ -58,6 +58,8 @@ cd Smart_Apartment-Assignment-
 # 5. Start API (auto-syncs DB)
 - npm run dev
 - Base URL → http://localhost:4000
+
+```
 
 # 6. Run simulator (in another terminal)
 - npm run simulate
